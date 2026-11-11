@@ -1,0 +1,16 @@
+{
+  "experiment": "fixed-pelvis humanoid; no ground contact or walking balance",
+  "python": "3.12.3",
+  "pinocchio": "4.1.0",
+  "degrees_of_freedom": 28,
+  "duration_s": 2.0,
+  "dt_s": 0.002,
+  "ik_initial_position_error_m": 0.7905221079581582,
+  "ik_final_position_error_m": 9.87996541882178e-08,
+  "tracking_rmse_rad": 0.0038853878908462723,
+  "forward_inverse_dynamics_max_residual_rad_s2": 9.338805284642148e-15,
+  "aba_median_ms": 0.014723,
+  "aba_p95_ms": 0.018350499999999995,
+  "timing_samples": 500,
+  "hardware_validation": false
+}
